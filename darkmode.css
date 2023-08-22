@@ -1,0 +1,48 @@
+img
+{
+    height: 14pc;
+    width: 14pc;
+    object-fit: cover;
+}
+button
+{
+    background-color: transparent;
+    align-items: center;
+    border-radius: 3pc;
+    overflow: hidden;
+    padding: 2pc;
+    font-size: 3pc;
+    border: 1px solid black;
+    background-color: transparent;
+    position: relative;
+    left: 2pc;
+    font-family: cursive ;
+}
+.button
+{
+    background-color: transparent;
+    align-items: center;
+    border-radius: 3pc;
+    overflow: hidden;
+    padding: 2pc;
+    font-size: 3pc;
+    border: 1px solid wheat;
+    background-color: transparent;
+    color: white;
+    position: relative;
+    left: 2pc;
+    font-family: cursive ;
+}
+h1
+{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-family: 'Noto Serif JP', serif;
+    font-style: italic;
+    font-size: 6pc;
+}
+.body
+{
+    background-color: rgba(0, 0, 0, 0.913);
+    color: rgba(255, 255, 255, 0.969);
+}
